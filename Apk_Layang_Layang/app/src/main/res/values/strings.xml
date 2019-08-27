@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Apk_Layang_Layang</string>
+    <string name="rumus">Keliling Layang - Layang</string>
+    <string name="atas1">Masukkan Sisi Pendek 1</string>
+    <string name="atas2">Masukkan Sisi Pendek 2</string>
+    <string name="bawah1">Masukkan Sisi Panjang 1</string>
+    <string name="bawah2">Masukkan Sisi Panjang 2</string>
+</resources>
